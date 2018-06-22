@@ -2,6 +2,4 @@
 Rust
 
 ## Q2. コードの説明 Code Explanation
-あなたのコードがどのように動作するのか、簡潔に説明してください。
-Write a brief explanation about how your code works here.
-
+コマンドライン引数として与えられた引数全てに対し、"Hello <引数>!"と1行に1つずつ表示する。
